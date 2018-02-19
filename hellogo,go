@@ -1,0 +1,5 @@
+package main
+
+func main() {
+	println("hello GO!, please be nice to me and help me in understanding you")
+}
